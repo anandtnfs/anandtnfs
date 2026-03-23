@@ -4,7 +4,7 @@
 
 **I see problems and I go deep until something exists that didn't before. Doesn't matter if it's code or atoms.**
 
-Head of Product at Brevo PushOwl · Sole dev on our new Shopify Reviews app · No eng team, just Claude, Cursor, and MCP
+EIR at Brevo PushOwl · I run the revenue and product for one of the biggest Shopify app from India · I love building side projects. No eng team, just Claude, Perplexity, and MCP
 
 </div>
 

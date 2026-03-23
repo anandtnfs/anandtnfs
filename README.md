@@ -10,12 +10,12 @@ EIR at Brevo PushOwl · I run the revenue and product for one of the biggest Sho
 
 ## What I'm building
 
-### OpenSoul
+### OpenSoul - https://www.opensoul.site
 Every AI agent starts with zero context about who you are. That bothered me. OpenSoul generates personalized AI agent workspaces from your public signals. I use it daily.
 
 `Next.js` `Vercel` `OpenClaw` `AI Agents`
 
-### Athlense
+### Athlense - https://www.athlense.ai
 I play competitive badminton and no coaching tool could analyze my game. So I'm building one. Frame-by-frame footage analysis using Gemini 2.5 Flash.
 
 `Gemini 2.5 Flash` `Video Analysis` `Sports Tech`
